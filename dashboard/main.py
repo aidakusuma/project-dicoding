@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-bike_df = pd.read_csv('C:/Users/A.I/Documents/Bangkit Academy 2024 H1/Dicoding/project/dashboard/bike_data.csv')
+bike_df = pd.read_csv('dashboard/bike_data.csv')
 print("\nData bike")
 print(bike_df.head())
 
